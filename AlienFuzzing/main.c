@@ -10,6 +10,8 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
+    FILE *log = stdout;
+    
     printf("Hello, World!\n");
     return 0;
 }
